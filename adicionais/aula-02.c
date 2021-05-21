@@ -39,8 +39,7 @@ int main() {
             printf("O arquivo 'teste.txt' foi fechado\n");
         } else {
             printf("O arquivo 'teste.txt' não foi fechado\n");
-        }
-        
+        } 
     }
     
     return 0;
